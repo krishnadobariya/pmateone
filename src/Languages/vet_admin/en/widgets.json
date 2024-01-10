@@ -1,0 +1,44 @@
+{
+    "name": "Name",
+    "type": "Type",
+    "breed": "Breed",
+    "gender": "Gender",
+    "dob": "Date of Birth",
+    "checkin": "Check-in",
+    "appointment_type": "Appointment Type",
+    "notes": "Vet's Notes",
+    "reason_for_vist": "Reason For Visit",
+    "reason_for_vist_placeholder": "Enter Reason For Visit",
+    "temperature": "Temperature",
+    "temperature_placeholder": "Enter Temperature degree (°C)",
+    "primary_diagnosis": "Primary Diagnosis",
+    "patient_allergies": "Patient Allergy",
+    "primary_diagnosis_cta": "Add Diagnosis",
+    "patient_allergies_cta": "Add Patient Allergy",
+    "primary_diagnosis_modal": {
+        "title": "Add Diagnosis",
+        "lable": "Title",
+        "placeholder": "Select",
+        "secondary_checkbox": "Secondary Diagnosis"
+    },
+    "patient_allergies_modal": {
+        "title": "Add Allergy",
+        "lable": "Title",
+        "placeholder": "Enter Title"
+    },
+    "basic_vitals": "Basic Vitals",
+    "medicines": "Medicines",
+    "medicine_dosage": "Dosage",
+    "medicine_duration": "Duration",
+    "instruction": "Instructions (if any)",
+    "vacination_modal": {
+        "title": "Vaccination",
+        "Name": "Name",
+        "Type": "Type",
+        "date": "Date",
+        "expiry_date": "Expiry Date"
+    },
+    "videos": {
+        "title": "Connect with Patient for Virtual Care"
+    }
+}

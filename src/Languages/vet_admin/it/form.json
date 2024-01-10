@@ -1,0 +1,231 @@
+{
+    "general": {
+        "submit": "Invia",
+        "update": "Aggiorna",
+        "edit": "Modifica",
+        "cancel": "Annulla",
+        "delete": "Elimina",
+        "close": "Chiudi",
+        "loading": "Caricamento",
+        "create": "Crea",
+        "email": {
+            "label": "Email",
+            "placeholder": "Inserisci la tua email",
+            "Error": "Inserisci la tua email"
+        },
+        "fullName": {
+            "label": "Nome completo",
+            "placeholder": "Inserisci il tuo nome completo",
+            "Error": "Inserisci il tuo nome completo"
+        },
+        "phone": {
+            "label": "Telefono",
+            "placeholder": "Inserisci il tuo numero di telefono",
+            "Error": "Inserisci il tuo numero di telefono"
+        },
+        "notes": {
+            "label": "Note",
+            "placeholder": "Aggiungi note",
+            "Error": "Aggiungi delle note"
+        },
+        "address": {
+            "label": "Indirizzo",
+            "placeholder": "Inserisci il tuo indirizzo",
+            "Error": "Inserisci il tuo indirizzo"
+        },
+        "parent": {
+            "label": "Genitore dell'animale",
+            "placeholder": "Seleziona",
+            "Error": "Seleziona il genitore dell'animale e l'animale"
+        },
+        "pet": {
+            "label": "Animale",
+            "placeholder": "Seleziona",
+            "Error": "Seleziona il genitore dell'animale e l'animale"
+        }
+    },
+    "auth": {
+        "signin_title": "Accedi",
+        "signin_description": "Iniziamo.",
+        "pwd_label": "Password",
+        "pwd_placeholder": "Inserisci la password",
+        "pwd_error": "Inserisci la tua password",
+        "forgot_password_link_text": "Hai dimenticato la password?",
+        "signin_cta": "Accedi",
+        "register_cta": "Registrati",
+        "reset_pwd_cta": "Reset",
+        "or_seperator": "O",
+        "signin_google": "Accedi con Google",
+        "dont_have_acct": "Non hai un account?",
+        "have_acct": "Te lo ricordi?",
+        "sign_in_here": "Accedi qui"
+    },
+    "profile": {
+        "title": "ACCOUNT",
+        "description": "Aggiorna i tuoi dati dell'account",
+        "image": {
+            "cta": "Carica immagine"
+        },
+
+        "specialization": {
+            "label": "Specializzazione",
+            "placeholder": "Inserisci specializzazione",
+            "Error": "Inserisci la tua specializzazione"
+        },
+
+        "about": {
+            "label": "Su di te",
+            "placeholder": "Inserisci una breve descrizione su di te",
+            "Error": "Inserisci le tue informazioni"
+        },
+        "consultationFee": {
+            "label": "Tariffa di consulenza",
+            "placeholder": "Inserisci la tariffa di consulenza",
+            "Error": "Inserisci la tua tariffa di consulenza"
+        },
+        "search": {
+            "label": "Cerca sulla mappa",
+            "placeholder": "Cerca la tua posizione",
+            "Error": "Scegli la posizione sulla mappa per rilevare le coordinate"
+        },
+        "appointmentTypes": {
+            "label": "Tipi di appuntamento",
+            "placeholder": "Seleziona",
+            "Error": "Seleziona il/i tipo/i di appuntamento"
+        }
+    },
+    "appointment": {
+        "title": "NUOVO APPUNTAMENTO",
+        "update_title": "AGGIORNARE L'APPUNTAMENTO",
+        "date_time": {
+            "label": "Data e ora",
+            "placeholder": "clicca per selezionare la data",
+            "modal_title": "Seleziona ora",
+            "Error": "Seleziona la data per favore"
+        },
+
+        "appointment_type": {
+            "label": "Tipo di appuntamento",
+            "placeholder": "Seleziona",
+            "Error": "Seleziona il tipo di appuntamento per favore"
+        },
+        "pet_type": {
+            "label": "Tipo di animale",
+            "placeholder": "Seleziona"
+        },
+        "pet_breed": {
+            "label": "Razza dell'animale",
+            "placeholder": "Seleziona"
+        },
+
+        "to_pay": "Da pagare"
+    },
+    "parent": {
+        "title": "GENITORE DEL PET",
+        "update_title": "Modifica Genitore",
+        "gender": {
+            "label": "Genere",
+            "placeholder": "Seleziona",
+            "Error": "Selezionare il genere"
+        },
+        "address": {
+            "label": "Indirizzo",
+            "placeholder": "Inserisci l'indirizzo",
+            "Error": "Inserisci l'indirizzo"
+        }
+    },
+    "imaging": {
+        "title": "RICHIEDI UN ESAME DIAGNOSTICO",
+        "imaging_type": {
+            "label": "Tipo di esame diagnostico",
+            "placeholder": "Inserisci il tipo di esame diagnostico",
+            "Error": "Si prega di inserire il tipo di esame diagnostico"
+        },
+        "radiologist": {
+            "label": "Radiologo",
+            "placeholder": "Inserisci il nome",
+            "Error": "Si prega di inserire il nome del radiologo"
+        }
+    },
+    "labs": {
+        "title": "RICHIESTA LABORATORIO",
+        "test_type": {
+            "label": "Tipo di Test",
+            "placeholder": "Tipo di Test",
+            "Error": "Inserisci il tipo di Laboratorio"
+        },
+        "choose_tests": {
+            "label": "Scegli Test",
+            "placeholder": "Aggiungi Test",
+            "modal_title": "Aggiungi Test",
+            "modal_label": "Titolo",
+            "modal_placeholder": "Inserisci Titolo Test"
+        }
+    },
+    "timing": {
+        "title": "ORARI",
+        "description": "Aggiorna i tuoi orari",
+        "label_show": "Mostra/Modifica gli Orari",
+        "label_hide": "Nascondi gli Orari"
+    },
+    "pets": {
+        "title": "Nuovo Animale",
+        "update_title": "Modifica Animale",
+        "select_parent": {
+            "label": "Seleziona Proprietario",
+            "placeholder": "Seleziona",
+            "Error": "Si prega di selezionare il proprietario"
+        },
+        "pets_name": {
+            "label": "Nome dell'Animale",
+            "placeholder": "Inserisci Nome dell'Animale",
+            "Error": "Si prega di inserire il Nome dell'Animale"
+        },
+        "pets_breed": {
+            "label": "Razza dell'Animale",
+            "placeholder": "Seleziona",
+            "Error": "Si prega di selezionare la Razza dell'Animale"
+        },
+        "dob": {
+            "label": "Data di Nascita",
+            "placeholder": "gg/mm/aaaa",
+            "Error": "Si prega di selezionare la Data di Nascita"
+        },
+        "weight": {
+            "label": "Peso (in Kg.)",
+            "placeholder": "Inserisci Peso (in Kg.)",
+            "Error": "Si prega di inserire il Peso (in Kg.)"
+        },
+        "color": {
+            "label": "Colore",
+            "placeholder": "Seleziona",
+            "Error": "Si prega di selezionare il Colore"
+        },
+        "gender": {
+            "label": "Genere",
+            "placeholder": "Seleziona",
+            "Error": "Si prega di selezionare il Genere"
+        },
+        "spay_neutered": {
+            "label": "Sterilizzato / Castrato",
+            "placeholder": "Seleziona",
+            "Error": "Si prega di selezionare se Sterilizzato / Castrato"
+        },
+        "location_of_chipping": {
+            "label": "Posizione del Microchip",
+            "placeholder": "Inserisci la Posizione del Microchip"
+        },
+        "insurance": {
+            "label": "Assicurazione",
+            "placeholder": "Inserisci i dettagli dell'Assicurazione"
+        },
+        "adopted_on": {
+            "label": "Adottato Il",
+            "placeholder": "gg/mm/aaaa"
+        },
+        "micro_chip_no": {
+            "label": "Numero del Microchip",
+            "placeholder": "Inserisci il Numero del Microchip"
+        }
+    }
+}

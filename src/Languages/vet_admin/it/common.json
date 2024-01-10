@@ -1,0 +1,31 @@
+{
+    "setup-account": {
+        "title": "Ciao",
+        "desc": "Configura il tuo Profilo",
+        "cta": "Imposta"
+    },
+    "top-bar": {
+        "hello": "Ciao",
+        "profile": "Profilo",
+        "logout": "Logout"
+    },
+    "side-bar": {
+        "dashboard": "Dashboard",
+        "appointment": "Appuntamento",
+        "add-appointment": "Aggiungi Appuntamento",
+        "patients": "Pazienti",
+        "add-patients": "Aggiungi Paziente",
+        "parents": "Genitori degli Animali",
+        "add-parents": "Aggiungi Genitore Animale",
+        "imaging": "Imaging",
+        "imaging-requested": "Richieste",
+        "imaging-completed": "Completati",
+        "imaging-add": "Aggiungi Nuova Richiesta",
+        "labs": "Laboratori",
+        "labs-requested": "Richieste",
+        "labs-completed": "Completati",
+        "labs-add": "Aggiungi Nuova Richiesta",
+        "adminstration": "Amministrazione",
+        "timing": "Orario"
+    }
+}

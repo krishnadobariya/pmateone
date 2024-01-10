@@ -1,0 +1,31 @@
+{
+    "setup-account": {
+        "title": "Hola",
+        "desc": "Por favor configura tu perfil",
+        "cta": "Configurar"
+    },
+    "top-bar": {
+        "hello": "Hola",
+        "profile": "Perfil",
+        "logout": "Cerrar sesión"
+    },
+    "side-bar": {
+        "dashboard": "Panel",
+        "appointment": "Citas",
+        "add-appointment": "Agregar Cita",
+        "patients": "Pacientes",
+        "add-patients": "Agregar Paciente",
+        "parents": "Dueños de mascotas",
+        "add-parents": "Agregar Dueño de Mascota",
+        "imaging": "Imagenología",
+        "imaging-requested": "Solicitudes",
+        "imaging-completed": "Completado",
+        "imaging-add": "Agregar Nueva Solicitud",
+        "labs": "Laboratorios",
+        "labs-requested": "Solicitudes",
+        "labs-completed": "Completado",
+        "labs-add": "Agregar Nueva Solicitud",
+        "adminstration": "Administración",
+        "timing": "Horarios"
+    }
+}

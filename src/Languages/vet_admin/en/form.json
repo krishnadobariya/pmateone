@@ -1,0 +1,232 @@
+{
+    "general": {
+        "submit": "Submit",
+        "update": "Update",
+        "edit": "Edit",
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "close": "Close",
+        "loading": "Loading",
+        "create": "Create",
+        "email": {
+            "label": "Email",
+            "placeholder": "Enter your Email",
+            "Error": "Please enter your Email"
+        },
+        "fullName": {
+            "label": "Full Name",
+            "placeholder": "Enter your Email",
+            "Error": "Please enter your Full Name"
+        },
+        "phone": {
+            "label": "Phone",
+            "placeholder": "Enter your Email",
+            "Error": "Please enter your Phone"
+        },
+        "notes": {
+            "label": "Notes",
+            "placeholder": "Add Notes",
+            "Error": "Please add notes"
+        },
+        "address": {
+            "label": "Address",
+            "placeholder": "Enter Address",
+            "Error": "Please enter your Address"
+        },
+        "parent": {
+            "label": "Pet Parent",
+            "placeholder": "Select",
+            "Error": "Please select Pet Parent and Pet"
+        },
+        "pet": {
+            "label": "Pet",
+            "placeholder": "Select",
+            "Error": "Please select you Pet Parent and Pet"
+        }
+    },
+    "auth": {
+        "signin_title": "Sign-In",
+        "signin_description": "Let's get you started.",
+        "pwd_label": "Password",
+        "pwd_placeholder": "Enter Password",
+        "pwd_error": "Please enter your password",
+        "forgot_password_link_text": "Forgot your Password?",
+        "signin_cta": "Sign-In",
+        "register_cta": "Register",
+        "reset_pwd_cta": "Reset",
+        "or_seperator": "OR",
+        "signin_google": "Sign-In with Google",
+        "dont_have_acct": "Don't have an Account?",
+        "have_acct": "Remember It ? ",
+        "sign_in_here": "Sign-In here"
+    },
+    "profile": {
+        "title": "ACCOUNT",
+        "description": "Update your Account Details",
+        "image": {
+            "cta": "Upload Image"
+        },
+
+        "specialization": {
+            "label": "Specialization",
+            "placeholder": "Enter Specialization",
+            "Error": "Please enter your Specialization"
+        },
+
+        "about": {
+            "label": "About you",
+            "placeholder": "Enter a brief description about yourself",
+            "Error": "Please Enter Your info"
+        },
+        "consultationFee": {
+            "label": "Consultation Fee",
+            "placeholder": "Enter Consultation Fee",
+            "Error": "Please enter your Consultation Fee"
+        },
+        "search": {
+            "label": "Search on Map",
+            "placeholder": "Search your Location",
+            "Error": "Please choose location on map to detect map co-ordinates"
+        },
+        "appointmentTypes": {
+            "label": "Appointment types",
+            "placeholder": "Select",
+            "Error": "Please select Appointment Type(s)"
+        }
+    },
+    "appointment": {
+        "title": "NEW APPOINTMENT",
+        "update_title": "UPDATE APPOINTMENT",
+        "date_time": {
+            "label": "Date & Time",
+            "placeholder": "click to select date",
+            "modal_title": "Select Time",
+
+            "Error": "Please select date"
+        },
+
+        "appointment_type": {
+            "label": "Appointment Type",
+            "placeholder": "Select",
+            "Error": "Please select appointment type"
+        },
+        "pet_type": {
+            "label": "Pet Type",
+            "placeholder": "Select"
+        },
+        "pet_breed": {
+            "label": "Pet's Breed",
+            "placeholder": "Select"
+        },
+
+        "to_pay": "To Pay"
+    },
+    "parent": {
+        "title": "PET PARENT",
+        "update_title": "Edit Parent",
+        "gender": {
+            "label": "Gender",
+            "placeholder": "Select",
+            "Error": "Please select Gender"
+        },
+        "address": {
+            "label": "Address",
+            "placeholder": "Enter Address",
+            "Error": "Please enter Address"
+        }
+    },
+    "imaging": {
+        "title": "MAGING REQUEST",
+        "imaging_type": {
+            "label": "Imaging Type",
+            "placeholder": "Enter Imaging Type",
+            "Error": "Please enter Imaging Type"
+        },
+        "radiologist": {
+            "label": "Radiologist",
+            "placeholder": "Enter Name",
+            "Error": "Please enter Radiologist Name"
+        }
+    },
+    "labs": {
+        "title": "LABS REQUEST",
+        "test_type": {
+            "label": "Test Type",
+            "placeholder": "Test Type",
+            "Error": "Please enter Labs Type"
+        },
+        "choose_tests": {
+            "label": "Choose Tests",
+            "placeholder": "Add Test",
+            "modal_title": "Add Test",
+            "modal_label": "Title",
+            "modal_placeholder": "Enter Test Title"
+        }
+    },
+    "timing": {
+        "title": "TIMINGS",
+        "description": "Update your timings",
+        "label_show": "Show/Edit Timings",
+        "label_hide": "Hide Timings"
+    },
+    "pets": {
+        "title": "New Pet",
+        "update_title": "Edit Pet",
+        "select_parent": {
+            "label": "Select Parent",
+            "placeholder": "Select",
+            "Error": "Please select parent"
+        },
+        "pets_name": {
+            "label": "Pet's name",
+            "placeholder": "Enter Pet's Name",
+            "Error": "Please enter Pet's Name"
+        },
+        "pets_breed": {
+            "label": "Pet's Breed",
+            "placeholder": "Select",
+            "Error": "Please select Pet's Breed"
+        },
+        "dob": {
+            "label": "Date Of Birth",
+            "placeholder": "dd/mm/yyyy",
+            "Error": "Please select Date of birth"
+        },
+        "weight": {
+            "label": "Weight (in Kg.)",
+            "placeholder": "Enter Weight (in Kg.)",
+            "Error": "Please enter Weight (in Kg.)"
+        },
+        "color": {
+            "label": "Colour",
+            "placeholder": "Select",
+            "Error": "Please select Color"
+        },
+        "gender": {
+            "label": "Gender",
+            "placeholder": "Select",
+            "Error": "Please select Gender"
+        },
+        "spay_neutered": {
+            "label": "Spayed / Neutered",
+            "placeholder": "Select",
+            "Error": "Please select if Spayed / Neutered"
+        },
+        "location_of_chipping": {
+            "label": "Chipping Location",
+            "placeholder": "Enter Location Of Chipping"
+        },
+        "insurance": {
+            "label": "Insurance",
+            "placeholder": "Enter Insurance details"
+        },
+        "adopted_on": {
+            "label": "Adopted On",
+            "placeholder": "dd/mm/yyyy"
+        },
+        "micro_chip_no": {
+            "label": "Microchip No.",
+            "placeholder": "Enter Microchip No."
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "setup-account": {
+        "title": "Hello",
+        "desc": "Please setup your Profile",
+        "cta": "Setup"
+    },
+    "top-bar": {
+        "hello": "Hello",
+        "profile": "Profile",
+        "logout": "Logout"
+    },
+    "side-bar": {
+        "dashboard": "Dashboard",
+        "appointment": "Appointment",
+        "add-appointment": "Add Appointment",
+        "patients": "Patients",
+        "add-patients": "Add Patient",
+        "parents": "Pet Parents",
+        "add-parents": "Add Pet Parent",
+        "imaging": "Imaging",
+        "imaging-requested": "Requests",
+        "imaging-completed": "Complete",
+        "imaging-add": "Add New Request",
+        "labs": "Imaging",
+        "labs-requested": "Requests",
+        "labs-completed": "Completed",
+        "labs-add": "Add New Request",
+        "adminstration": "Administration",
+        "timing": "Time Schedule"
+    }
+}

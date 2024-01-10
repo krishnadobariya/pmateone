@@ -1,0 +1,44 @@
+{
+    "name": "Nombre",
+    "type": "Tipo",
+    "breed": "Raza",
+    "gender": "Género",
+    "dob": "Fecha de Nacimiento",
+    "checkin": "Registro de llegada",
+    "appointment_type": "Tipo de Cita",
+    "notes": "Notas del Veterinario",
+    "reason_for_vist": "Motivo de la Visita",
+    "reason_for_vist_placeholder": "Ingresar Motivo de la Visita",
+    "temperature": "Temperatura",
+    "temperature_placeholder": "Ingresar Temperatura en grados Celsius (°C)",
+    "primary_diagnosis": "Diagnóstico Primario",
+    "patient_allergies": "Alergia del Paciente",
+    "primary_diagnosis_cta": "Agregar Diagnóstico",
+    "patient_allergies_cta": "Agregar Alergia del Paciente",
+    "primary_diagnosis_modal": {
+        "title": "Agregar Diagnóstico",
+        "lable": "Título",
+        "placeholder": "Seleccionar",
+        "secondary_checkbox": "Diagnóstico Secundario"
+    },
+    "patient_allergies_modal": {
+        "title": "Agregar Alergia",
+        "lable": "Título",
+        "placeholder": "Ingresar Título"
+    },
+    "basic_vitals": "Signos Vitales Básicos",
+    "medicines": "Medicamentos",
+    "medicine_dosage": "Dosis",
+    "medicine_duration": "Duración",
+    "instruction": "Instrucciones (si hay alguna)",
+    "vacination_modal": {
+        "title": "Vacunación",
+        "Name": "Nombre",
+        "Type": "Tipo",
+        "date": "Fecha",
+        "expiry_date": "Fecha de Expiración"
+    },
+    "videos": {
+        "title": "Conectar con el Paciente para Cuidado Virtual"
+    }
+}

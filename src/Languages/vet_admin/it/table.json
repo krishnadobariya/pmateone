@@ -1,0 +1,41 @@
+{
+    "labels": {
+        "pets_name": "Nome del Pet",
+        "breed": "Razza",
+        "start_time": "Ora di Inizio",
+        "Status": "Stato",
+        "action": "Azione",
+        "appointment_type": "Tipo di Appuntamento",
+        "parent_id": "ID del Genitore",
+        "pets_parent": "Genitore del Pet",
+        "gender": "Sesso",
+        "email": "Email",
+        "Phone": "Telefono",
+        "date": "Data",
+        "date_requested": "Data Richiesta",
+        "patient": "Paziente",
+        "notes": "Note del Veterinario"
+    },
+    "tooltips": {
+        "edit": "Modifica",
+        "view": "Visualizza",
+        "delete": "Elimina",
+        "cancel": "Annulla",
+        "prescription": "Prescrizione",
+        "checkin": "Check-in"
+    },
+    "actions": {
+        "new_pet": "Aggiungi Pet",
+        "new_parent": "Aggiungi Genitore",
+        "new_appointment": "Crea Appuntamento",
+        "new_imaging": "Crea Richiesta di Imaging",
+        "new_labs": "Crea Richiesta di Laboratorio"
+    },
+    "others": {
+        "today": "Oggi",
+        "month": "Mese",
+        "week": "Settimana",
+        "day": "Giorno",
+        "page": "Pagina"
+    }
+}

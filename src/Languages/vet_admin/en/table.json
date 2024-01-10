@@ -1,0 +1,41 @@
+{
+    "labels": {
+        "pets_name": "Pet's Name",
+        "breed": "Breed",
+        "start_time": "Start Time",
+        "Status": "Status",
+        "action": "Action",
+        "appointment_type": "Appointment Type",
+        "parent_id": "Parent Id",
+        "pets_parent": "Pet's Parent",
+        "gender": "Gender",
+        "email": "Email",
+        "Phone": "Phone",
+        "date": "Date",
+        "date_requested": "Date Requested",
+        "patient": "Patient",
+        "notes": "Vet's Notes"
+    },
+    "tooltips": {
+        "edit": "edit",
+        "view": "View",
+        "delete": "Delete",
+        "cancel": "Cancel",
+        "prescription": "Prescription",
+        "checkin": "Check-in"
+    },
+    "actions": {
+        "new_pet": "Add Pet",
+        "new_parent": "Add Parent",
+        "new_appointment": "Create Appointment",
+        "new_imaging": "Create Imaging Request",
+        "new_labs": "Create Lab Request"
+    },
+    "others": {
+        "today": "Today",
+        "month": "Month",
+        "week": "Week",
+        "day": "Day",
+        "page": "Page"
+    }
+}

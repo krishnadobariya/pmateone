@@ -1,0 +1,41 @@
+{
+    "labels": {
+        "pets_name": "Nombre de la Mascota",
+        "breed": "Raza",
+        "start_time": "Hora de inicio",
+        "Status": "Estado",
+        "action": "Acción",
+        "appointment_type": "Tipo de Cita",
+        "parent_id": "ID del Dueño",
+        "pets_parent": "Dueño de la Mascota",
+        "gender": "Género",
+        "email": "Correo Electrónico",
+        "Phone": "Teléfono",
+        "date": "Fecha",
+        "date_requested": "Fecha de solicitud",
+        "patient": "Paciente",
+        "notes": "Notas del Veterinario"
+    },
+    "tooltips": {
+        "edit": "Editar",
+        "view": "Ver",
+        "delete": "Eliminar",
+        "cancel": "Cancelar",
+        "prescription": "Receta",
+        "checkin": "Registro de llegada"
+    },
+    "actions": {
+        "new_pet": "Agregar Mascota",
+        "new_parent": "Agregar Dueño",
+        "new_appointment": "Crear Cita",
+        "new_imaging": "Crear Solicitud de Imagen",
+        "new_labs": "Crear Solicitud de Laboratorio"
+    },
+    "others": {
+        "today": "Hoy",
+        "month": "Mes",
+        "week": "Semana",
+        "day": "Día",
+        "page": "Página"
+    }
+}

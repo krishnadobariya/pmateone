@@ -1,0 +1,231 @@
+{
+    "general": {
+        "submit": "Enviar",
+        "update": "Actualizar",
+        "edit": "Editar",
+        "cancel": "Cancelar",
+        "delete": "Eliminar",
+        "close": "Cerrar",
+        "loading": "Cargando",
+        "create": "Crear",
+        "email": {
+            "label": "Correo electrónico",
+            "placeholder": "Ingrese su correo electrónico",
+            "Error": "Por favor ingrese su correo electrónico"
+        },
+        "fullName": {
+            "label": "Nombre completo",
+            "placeholder": "Ingrese su correo electrónico",
+            "Error": "Por favor ingrese su nombre completo"
+        },
+        "phone": {
+            "label": "Teléfono",
+            "placeholder": "Ingrese su correo electrónico",
+            "Error": "Por favor ingrese su teléfono"
+        },
+        "notes": {
+            "label": "Notas",
+            "placeholder": "Agregar notas",
+            "Error": "Por favor agregue notas"
+        },
+        "address": {
+            "label": "Dirección",
+            "placeholder": "Ingrese su dirección",
+            "Error": "Por favor ingrese su dirección"
+        },
+        "parent": {
+            "label": "Dueño de la mascota",
+            "placeholder": "Seleccionar",
+            "Error": "Por favor seleccione Dueño de la mascota y Mascota"
+        },
+        "pet": {
+            "label": "Mascota",
+            "placeholder": "Seleccionar",
+            "Error": "Por favor seleccione Dueño de la mascota y Mascota"
+        }
+    },
+    "auth": {
+        "signin_title": "Iniciar sesión",
+        "signin_description": "Comencemos.",
+        "pwd_label": "Contraseña",
+        "pwd_placeholder": "Ingrese la contraseña",
+        "pwd_error": "Por favor ingrese su contraseña",
+        "forgot_password_link_text": "¿Olvidó su contraseña?",
+        "signin_cta": "Iniciar sesión",
+        "register_cta": "Registrar",
+        "reset_pwd_cta": "Restablecer",
+        "or_seperator": "O",
+        "signin_google": "Iniciar sesión con Google",
+        "dont_have_acct": "¿No tiene una cuenta?",
+        "have_acct": "¿La recuerda? ",
+        "sign_in_here": "Iniciar sesión aquí"
+    },
+    "profile": {
+        "title": "CUENTA",
+        "description": "Actualice los detalles de su cuenta",
+        "image": {
+            "cta": "Cargar imagen"
+        },
+
+        "specialization": {
+            "label": "Especialización",
+            "placeholder": "Ingrese especialización",
+            "Error": "Por favor ingrese su especialización"
+        },
+
+        "about": {
+            "label": "Sobre usted",
+            "placeholder": "Ingrese una breve descripción sobre usted",
+            "Error": "Por favor ingrese su información"
+        },
+        "consultationFee": {
+            "label": "Honorario de consulta",
+            "placeholder": "Ingrese el honorario de consulta",
+            "Error": "Por favor ingrese el honorario de consulta"
+        },
+        "search": {
+            "label": "Buscar en el mapa",
+            "placeholder": "Buscar su ubicación",
+            "Error": "Por favor elija una ubicación en el mapa para detectar las coordenadas del mapa"
+        },
+        "appointmentTypes": {
+            "label": "Tipos de cita",
+            "placeholder": "Seleccionar",
+            "Error": "Por favor seleccione Tipo(s) de cita"
+        }
+    },
+    "appointment": {
+        "title": "NUEVA CITA",
+        "update_title": "ACTUALIZAR CITA",
+        "date_time": {
+            "label": "Fecha y Hora",
+            "placeholder": "haga clic para seleccionar fecha",
+            "modal_title": "Seleccionar Hora",
+            "Error": "Seleccione una fecha, por favor"
+        },
+
+        "appointment_type": {
+            "label": "Tipo de Cita",
+            "placeholder": "Seleccionar",
+            "Error": "Seleccione un tipo de cita, por favor"
+        },
+        "pet_type": {
+            "label": "Tipo de Mascota",
+            "placeholder": "Seleccionar"
+        },
+        "pet_breed": {
+            "label": "Raza de Mascota",
+            "placeholder": "Seleccionar"
+        },
+
+        "to_pay": "Por pagar"
+    },
+    "parent": {
+        "title": "DUEÑO DE MASCOTA",
+        "update_title": "Editar Dueño",
+        "gender": {
+            "label": "Género",
+            "placeholder": "Seleccionar",
+            "Error": "Seleccione un género, por favor"
+        },
+        "address": {
+            "label": "Dirección",
+            "placeholder": "Ingresar Dirección",
+            "Error": "Ingrese una dirección, por favor"
+        }
+    },
+    "imaging": {
+        "title": "SOLICITUD DE IMAGEN",
+        "imaging_type": {
+            "label": "Tipo de Imagen",
+            "placeholder": "Ingresar Tipo de Imagen",
+            "Error": "Ingrese un tipo de imagen, por favor"
+        },
+        "radiologist": {
+            "label": "Radiólogo",
+            "placeholder": "Ingresar Nombre",
+            "Error": "Ingrese el nombre del radiólogo, por favor"
+        }
+    },
+    "labs": {
+        "title": "SOLICITUD DE LABORATORIO",
+        "test_type": {
+            "label": "Tipo de Prueba",
+            "placeholder": "Tipo de Prueba",
+            "Error": "Ingrese un tipo de prueba de laboratorio, por favor"
+        },
+        "choose_tests": {
+            "label": "Seleccionar Pruebas",
+            "placeholder": "Agregar Prueba",
+            "modal_title": "Agregar Prueba",
+            "modal_label": "Título",
+            "modal_placeholder": "Ingresar Título de Prueba"
+        }
+    },
+    "timing": {
+        "title": "HORARIOS",
+        "description": "Actualice sus horarios",
+        "label_show": "Mostrar/Editar Horarios",
+        "label_hide": "Ocultar Horarios"
+    },
+    "pets": {
+        "title": "Nueva Mascota",
+        "update_title": "Editar Mascota",
+        "select_parent": {
+            "label": "Seleccionar Dueño",
+            "placeholder": "Seleccionar",
+            "Error": "Seleccione un dueño, por favor"
+        },
+        "pets_name": {
+            "label": "Nombre de la Mascota",
+            "placeholder": "Ingresar Nombre de Mascota",
+            "Error": "Ingrese el nombre de la mascota, por favor"
+        },
+        "pets_breed": {
+            "label": "Raza de la Mascota",
+            "placeholder": "Seleccionar",
+            "Error": "Seleccione la raza de la mascota, por favor"
+        },
+        "dob": {
+            "label": "Fecha de Nacimiento",
+            "placeholder": "dd/mm/yyyy",
+            "Error": "Seleccione la fecha de nacimiento, por favor"
+        },
+        "weight": {
+            "label": "Peso (en Kg.)",
+            "placeholder": "Ingresar Peso (en Kg.)",
+            "Error": "Ingrese el peso (en Kg.) de la mascota, por favor"
+        },
+        "color": {
+            "label": "Color",
+            "placeholder": "Seleccionar",
+            "Error": "Seleccione el color de la mascota, por favor"
+        },
+        "gender": {
+            "label": "Género",
+            "placeholder": "Seleccionar",
+            "Error": "Seleccione el género de la mascota, por favor"
+        },
+        "spay_neutered": {
+            "label": "Esterilizada / Castrado",
+            "placeholder": "Seleccionar",
+            "Error": "Seleccione si la mascota ha sido esterilizada o castrada, por favor"
+        },
+        "location_of_chipping": {
+            "label": "Ubicación del Microchip",
+            "placeholder": "Ingresar Ubicación del Microchip"
+        },
+        "insurance": {
+            "label": "Seguro",
+            "placeholder": "Ingresar detalles del seguro"
+        },
+        "adopted_on": {
+            "label": "Adoptado el",
+            "placeholder": "dd/mm/yyyy"
+        },
+        "micro_chip_no": {
+            "label": "Número de Microchip",
+            "placeholder": "Ingresar Número de Microchip"
+        }
+    }
+}
